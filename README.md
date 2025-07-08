@@ -27,6 +27,10 @@
 ### 📬 Let’s Connect
 
 <p align="left">
-  <a href="mailto:haodev1307@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="[https://facebook.com/...](https://www.facebook.com/Tran.Anh.Hao.1307)"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:haodev1307@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/Tran.Anh.Hao.1307">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
