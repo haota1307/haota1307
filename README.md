@@ -28,6 +28,5 @@
 
 <p align="left">
   <a href="mailto:haodev1307@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/..."><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/..."><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="[https://facebook.com/...](https://www.facebook.com/Tran.Anh.Hao.1307)"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
